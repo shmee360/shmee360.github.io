@@ -3,7 +3,7 @@
 
 AUTHOR = 'Warren Stix'
 SITENAME = 'Barebones Blog'
-SITEURL = 'https://shmee360.github.io'
+SITEURL = ''
 
 PATH = 'content'
 
