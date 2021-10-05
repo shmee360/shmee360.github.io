@@ -1,7 +1,19 @@
 html, body {
-  margin: 0;
-  border: 0;
-  font-size: 100%;
-  background-color: #000000;
-  color: #ffffff;
+	margin: 16;
+	border: 0;
+	font-size: 100%;
+	background-color: #f7e7ce;
+	color: #000000;
+	font-family: sans-serif;
+}
+
+h1, ol { text-align: center; }
+
+ol {
+	width: 65%;
+	margin: auto;
+}
+
+div.entry-content {
+	text-align: left;
 }
